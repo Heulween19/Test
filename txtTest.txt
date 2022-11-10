@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 test push git
 absfgjdhfks
+=======
+>>>>>>> parent of d745fb0 ( change1)
