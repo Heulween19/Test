@@ -1,0 +1,8 @@
+E:\Test\Enum_Struct\Enum_Struct_Test\Enum_Test\bin\Debug\Enum_Test.exe.config
+E:\Test\Enum_Struct\Enum_Struct_Test\Enum_Test\bin\Debug\Enum_Test.exe
+E:\Test\Enum_Struct\Enum_Struct_Test\Enum_Test\bin\Debug\Enum_Test.pdb
+E:\Test\Enum_Struct\Enum_Struct_Test\Enum_Test\obj\Debug\Enum_Test.csproj.AssemblyReference.cache
+E:\Test\Enum_Struct\Enum_Struct_Test\Enum_Test\obj\Debug\Enum_Test.csproj.SuggestedBindingRedirects.cache
+E:\Test\Enum_Struct\Enum_Struct_Test\Enum_Test\obj\Debug\Enum_Test.csproj.CoreCompileInputs.cache
+E:\Test\Enum_Struct\Enum_Struct_Test\Enum_Test\obj\Debug\Enum_Test.exe
+E:\Test\Enum_Struct\Enum_Struct_Test\Enum_Test\obj\Debug\Enum_Test.pdb

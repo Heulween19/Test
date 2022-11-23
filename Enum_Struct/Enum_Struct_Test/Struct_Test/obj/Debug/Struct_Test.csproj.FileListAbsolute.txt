@@ -1,0 +1,7 @@
+E:\Test\Enum_Struct\Enum_Struct_Test\Struct_Test\bin\Debug\Struct_Test.exe.config
+E:\Test\Enum_Struct\Enum_Struct_Test\Struct_Test\bin\Debug\Struct_Test.exe
+E:\Test\Enum_Struct\Enum_Struct_Test\Struct_Test\bin\Debug\Struct_Test.pdb
+E:\Test\Enum_Struct\Enum_Struct_Test\Struct_Test\obj\Debug\Struct_Test.csproj.SuggestedBindingRedirects.cache
+E:\Test\Enum_Struct\Enum_Struct_Test\Struct_Test\obj\Debug\Struct_Test.csproj.CoreCompileInputs.cache
+E:\Test\Enum_Struct\Enum_Struct_Test\Struct_Test\obj\Debug\Struct_Test.exe
+E:\Test\Enum_Struct\Enum_Struct_Test\Struct_Test\obj\Debug\Struct_Test.pdb
