@@ -1,0 +1,8 @@
+E:\Test\Test1\Constructor_Test\Construcotr_Test_1\Construcotr_Test_1\bin\Debug\Construcotr_Test_1.exe.config
+E:\Test\Test1\Constructor_Test\Construcotr_Test_1\Construcotr_Test_1\bin\Debug\Construcotr_Test_1.exe
+E:\Test\Test1\Constructor_Test\Construcotr_Test_1\Construcotr_Test_1\bin\Debug\Construcotr_Test_1.pdb
+E:\Test\Test1\Constructor_Test\Construcotr_Test_1\Construcotr_Test_1\obj\Debug\Construcotr_Test_1.csproj.AssemblyReference.cache
+E:\Test\Test1\Constructor_Test\Construcotr_Test_1\Construcotr_Test_1\obj\Debug\Construcotr_Test_1.csproj.SuggestedBindingRedirects.cache
+E:\Test\Test1\Constructor_Test\Construcotr_Test_1\Construcotr_Test_1\obj\Debug\Construcotr_Test_1.csproj.CoreCompileInputs.cache
+E:\Test\Test1\Constructor_Test\Construcotr_Test_1\Construcotr_Test_1\obj\Debug\Construcotr_Test_1.exe
+E:\Test\Test1\Constructor_Test\Construcotr_Test_1\Construcotr_Test_1\obj\Debug\Construcotr_Test_1.pdb
